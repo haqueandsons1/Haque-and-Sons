@@ -32,19 +32,19 @@
 
 ## 📂 Featured Projects  
 
-🔹 [🌍 Haque & Sons Website](https://github.com/haqueandsons1/website)  
-🔹 [🧠 AI Resume Builder](https://github.com/haqueandsons1/ai-resume-builder)  
-🔹 [💼 Portfolio Builder](https://github.com/haqueandsons1/portfolio-builder)  
-🔹 [🤖 Personal AI Assistant](https://github.com/haqueandsons1/ai-assistant)  
+🔹 [🌍 Haque & Sons Website](https://github.com/NejamulHaque/Haque-and-Sons)  
+🔹 [🧠 AI Resume Builder](https://github.com/NejamulHaque/AI-Resume-Builder)  
+🔹 [💼 Portfolio Builder](https://github.com/NejamulHaque/portfolio-builder)  
+🔹 [🤖 Personal AI Assistant](https://github.com/NejamulHaque/Irus-AI)  
 
 ---
 
 ## 🌍 Connect With Us  
 
 <p align="center">
-  <a href="https://nejamulportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://haqueandsons.vercel.app/blog.html"><img src="https://img.shields.io/badge/Blog-111?style=for-the-badge&logo=hashnode&logoColor=blue" /></a>
-  <a href="mailto:haqueandsons.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-ai-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://haque-and-sons.vercel.app/blog.html"><img src="https://img.shields.io/badge/Blog-111?style=for-the-badge&logo=hashnode&logoColor=blue" /></a>
+  <a href="mailto:haqueandsons24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
