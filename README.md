@@ -23,7 +23,7 @@
 
 ## 🚀 What We Do  
 
-- 🌐 **Web Development** – Modern, scalable, responsive websites  
+- 🌐 **Web & App Development** – Modern, scalable, responsive web & Apps 
 - 🤖 **AI & Automation** – Intelligent assistants, machine learning, data-driven solutions  
 - ☁️ **Cloud Solutions** – Deployment, hosting, and cloud-native apps  
 - 📊 **Software Engineering** – Scalable backend systems and APIs  
